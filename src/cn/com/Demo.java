@@ -7,6 +7,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+/*
+2.0项目
+ */
 @WebServlet("/demo")
 public class Demo extends HttpServlet {
 
